@@ -1,0 +1,29 @@
+{
+	"registries": {
+		"local": {
+			"local": {
+				"directory": "./modules"
+			}
+		}
+	},
+	"modules": {
+		"currency": {},
+		"friends": {},
+		"rate_limit": {},
+		"tokens": {},
+		"users": {
+			"config": null
+		},
+		"uploads": {},
+		"foo": {
+			"registry": "local"
+		},
+		"config_test": {
+			"registry": "local",
+			"config": {
+				"foo": "hello world",
+				"bar": 1234
+			}
+		}
+	}
+}
