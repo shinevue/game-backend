@@ -1,7 +1,5 @@
 # Open Game Backend
 
-_Open-source modular backend for all games and tools._
-
 ![Backend Made Simple](./media/hero.png)
 
 - **Modular**: Mix, match, & modify modules as needed to fit your game's unique requirements.
@@ -11,8 +9,6 @@ _Open-source modular backend for all games and tools._
   allow you to customize to fit your needs.
 - **Secure, load-tested, & resilient**: Built to withstand the chaos that games need to grow & stay online. Load
   testing, rate limits, captchas, strict schemas, and more are all enforced by default.
-- **Open-source & permissively licensed**: Apache 2.0 license allows you to adapt, modify, & redistribute freely.
-  _[Trust no one, own your backend.](https://delistedgames.com/gamesparks-service-to-end-in-september-potential-threat-to-thousands-of-titles/)_
 
 ## Prerequisites
 
@@ -57,15 +53,3 @@ deno task cli:install
 
 See [rivet-gg/opengb-modules](https://github.com/rivet-gg/opengb-modules.git).
 
-## Support
-
-**Community**
-
-[Create a GitHub issue](https://github.com/rivet-gg/opengb/issues) or [join our Discord](https://rivet.gg/discord).
-
-**Enterprise**
-
-The following companies provide enterprise support & custom modules for Open Game Backend:
-
-- [Rivet](https://rivet.gg/support)
-- _Create a PR to list your services for Open Game Backend_
