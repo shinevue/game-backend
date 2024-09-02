@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/shinevue/game-backend/compare/v0.1.5...v0.1.6) (2024-09-02)
+
+
+### Bug Fixes
+
+* catch bug  ([0d7bdfc](https://github.com/shinevue/game-backend/commit/0d7bdfc9fbacb22b0fe1611441a56b373bca1547))
+
 ## [0.1.5](https://github.com/rivet-gg/opengb/compare/v0.1.4...v0.1.5) (2024-06-11)
 
 
